@@ -83,5 +83,11 @@
   <ItemGroup>
     <None Include="Resources\virusStartScreen.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hero_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hero_2.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
